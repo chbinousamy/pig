@@ -1,4 +1,4 @@
-Apache Pig
+Apache Pig.
 ===========
 Pig is a dataflow programming environment for processing very large files. Pig's
 language is called Pig Latin. A Pig Latin program consists of a directed
